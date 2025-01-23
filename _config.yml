@@ -1,4 +1,4 @@
-name: "Vince's blog"
+name: "Felix's blog"
 description: "Personal Blog Website"
 
 avatar: https://SousekiL.github.io/images/avatar.png
@@ -18,7 +18,7 @@ excerpt_separator: <!-- more -->
 
 footer-links:
   zhihu: 
-  email: vinceliu127@gmail.com
+  email: wfliu127@gmail.com
   facebook:
   github: SousekiL
   rss: # just type anything here for a working RSS icon
