@@ -21,11 +21,11 @@ Education Experience
 - B.A. in Xi'an Jiaotong University
 
 SOA Exams Progress (Open to pursuing CAS Exams): 
-- P (Passed)
-- FM (Scheduled for Apr 2025)
-- SRM (In Progress, expected for May 2025);
-- FAM (In Progress, expected for Dec 2025);
-- ASTM/ALTM (Expected for Dec 2025);
+- P: Passed in Jan 2025
+- FM: Scheduled for Apr 2025
+- SRM: In Progress, expected for May 2025;
+- FAM: In Progress, expected for Dec 2025;
+- ASTM/ALTM: Expected for Dec 2025;
 
 ## Recent Data Projects
 
