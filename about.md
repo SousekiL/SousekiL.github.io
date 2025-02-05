@@ -30,7 +30,7 @@ SOA Exams Progress (Open to pursuing CAS Exams):
 ## Recent Data Projects
 
 - How Social Capital Influenced Women’s Literary Recognition in Imperial China
-  - Project summary [Slides](files/2025-02-04-poets.pdf)
+  - Project summary [Slides](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5126209)
   - Project paper [Preprint version](http://dx.doi.org/10.2139/ssrn.5072945)
 - [Why does it feel like everywhere is far away in Beijing?](_posts/2023-08-29-beijing.md)
 
