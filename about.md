@@ -34,6 +34,7 @@ SOA Exams Progress (Open to pursuing CAS Exams):
   - Project paper [Preprint version](http://dx.doi.org/10.2139/ssrn.5072945)
 - [Why does it feel like everywhere is far away in Beijing?](_posts/2023-08-29-beijing.md)
 
+
 ## Copyright Notice
 
 All articles on this blog are my original work. The copyright belongs to me. Please contact me for authorization if you wish to reproduce any content.
