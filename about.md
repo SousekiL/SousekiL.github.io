@@ -14,6 +14,8 @@ This is my personal blog, created using the GitHub platform, where I document an
 
 ## Education and Training
 
+Education Experience
+
 - M.S. in University of Illinois at Urbana-Champaign (ongoing)
 - M.A. in Nanjing University
 - B.A. in Xi'an Jiaotong University
