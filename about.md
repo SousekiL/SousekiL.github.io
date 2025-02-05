@@ -23,7 +23,7 @@ If you have any questions about my articles or notice any errors, feel free to c
 ## Recent Data Projects
 
 - How Social Capital Influenced Women’s Literary Recognition in Imperial China
-  - Project summary [Slides](_posts/STAT480_Slides_wl64.pdf)
+  - Project summary [Slides](_posts/2025-02-04-women.pdf)
   - Project paper [Preprint version](http://dx.doi.org/10.2139/ssrn.5072945)
 - [Why does it feel like everywhere is far away in Beijing?](_posts/2023-08-29-beijing.md)
 
