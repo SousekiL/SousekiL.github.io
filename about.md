@@ -16,9 +16,14 @@ If you have any questions about my articles or notice any errors, feel free to c
 
 ## Education and Training
 
--   M.S. in University of Illinois at Urbana-Champaign (ongoing)
--   M.A. in Nanjing University
--   B.A. in Xi'an Jiaotong University
+- M.S. in University of Illinois at Urbana-Champaign (ongoing)
+- M.A. in Nanjing University
+- B.A. in Xi'an Jiaotong University
+
+## Recent Projects
+
+- [How Social Capital Influenced Women’s Literary Recognition in Imperial China](_posts/STAT480_Slides_wl64.pdf)
+
 
 ## Copyright Notice
 
