@@ -4,9 +4,9 @@ layout: page
 permalink: /about/
 ---
 
-## Welcome to Vince Liu’s personal website!
+## Welcome to Felix Liu’s personal website!
 
-Hello, I am Vince Liu. 
+Hello, I am Felix Liu. 
 
 I am currently pursuing a Master's degree in Predictive Analytics & Risk Management at UIUC, within the Department of Mathematics. Prior to this, I gained several years of experience working as a data analyst and data scientist at leading tech companies in China, such as Kuaishou and Douyin.
 
