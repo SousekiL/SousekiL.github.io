@@ -22,7 +22,9 @@ If you have any questions about my articles or notice any errors, feel free to c
 
 ## Recent Projects
 
-- [How Social Capital Influenced Women’s Literary Recognition in Imperial China](_posts/STAT480_Slides_wl64.pdf)
+- How Social Capital Influenced Women’s Literary Recognition in Imperial China
+  - Project summary [Slides](_posts/STAT480_Slides_wl64.pdf)
+  - Project paper [Preprint version](http://dx.doi.org/10.2139/ssrn.5072945)
 
 
 ## Copyright Notice
