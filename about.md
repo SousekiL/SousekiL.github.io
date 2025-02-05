@@ -15,11 +15,15 @@ This is my personal blog, created using the GitHub platform, where I document an
 ## Education and Training
 
 - M.S. in University of Illinois at Urbana-Champaign (ongoing)
-  - Relevant courses: Statistics for Risk Modeling, Loss Models, Predictive Analytics, Statistical Learning, Big Data Analytics, Applied Bayesian Analysis
 - M.A. in Nanjing University
 - B.A. in Xi'an Jiaotong University
 
-- Actuarial Exams Progress: P (Passed), FM (Scheduled for Apr 2025), SRM & FAM (In Progress); Open to pursuing CAS Exams
+SOA Exams Progress (Open to pursuing CAS Exams): 
+- P (Passed)
+- FM (Scheduled for Apr 2025)
+- SRM (In Progress, expected for May 2025);
+- FAM (In Progress, expected for Dec 2025);
+- ASTM/ALTM (Expected for Dec 2025);
 
 ## Recent Data Projects
 
