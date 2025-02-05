@@ -19,7 +19,7 @@ This is my personal blog, created using the GitHub platform, where I document an
 - M.A. in Nanjing University
 - B.A. in Xi'an Jiaotong University
 
-- Actuarial Exams Process: P (Passed), FM (Scheduled for Apr 2025), SRM & FAM (In Progress); Open to pursuing CAS Exams
+- Actuarial Exams Progress: P (Passed), FM (Scheduled for Apr 2025), SRM & FAM (In Progress); Open to pursuing CAS Exams
 
 ## Recent Data Projects
 
